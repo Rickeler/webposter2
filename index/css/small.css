@@ -1,0 +1,172 @@
+* {
+  box-sizing:border-box;
+  padding:0;
+  margin:0;
+}
+
+
+/*typography*/
+
+@font-face {
+  font-family: "redaction";
+  src: url("../fonts/Redaction_70-Bold.woff2") format('woff2');
+  font-weight:bold;
+}
+
+@font-face {
+  font-family: "redaction";
+  src: url("../fonts/Redaction_70-Regular.woff2") format('woff2');
+}
+
+@font-face {
+  font-family: "redaction";
+  src: url("../fonts/Redaction_70-Italic.woff2") format('woff2');
+  font-style:italic;
+}
+
+@font-face {
+  font-family: "redactionless";
+  src: url("../fonts/Redaction-Regular.woff2")  format('woff2');
+}
+
+@font-face {
+  font-family: "redactionless";
+  src: url("../fonts/Redaction-Italic.woff2") format('woff2');
+  font-style: italic;
+}
+
+h1 {
+  font-family: "redaction";
+  font-size: 4em;
+  font-weight:normal;
+  font-style:italic;
+}
+
+h2 {
+  font-family: "redaction";
+  font-size: 2.5em;
+  font-weight:normal;
+  padding-left: 1em;
+}
+
+h2:hover {
+  color: #888b6d;
+  }
+  
+h3 {
+  font-family: "redactionless";
+  font-size: 0.5em;
+}
+p{
+  padding-left: 2em;
+  padding: 1em;
+font-family: "redactionless";
+font-weight: normal;
+font-style: normal;
+color: #B5B0D8;
+font-size: 0.75em;
+display: inline-flex;
+}
+.text-green {
+color:rgb(108, 113, 64);
+}
+
+.text-purple {
+color: rgb(181, 176, 216);
+}
+
+.name{
+color: #6C7140;
+display: inline-flex;
+}
+
+.info{
+display: inline;
+display: inline-block;
+padding: 2em;
+font-family: "redactionless";
+color:#6C7140;
+}
+
+.bio{
+padding: 1em;
+font-family: "redactionless";
+font-weight: normal;
+font-style: normal;
+color: #B5B0D8;
+font-size: 1em;
+display: inline-flex;
+}
+
+.image{
+  display: inline-flex;
+  height: 7vh;
+}
+
+a{
+  display: inline-flex;
+  height: 10em;
+}
+
+.tile{
+  display: inline-flex;
+  height: 80px;
+}
+
+/*structure*/
+
+.scrollbar-a {
+    width: 100%;
+    background-color: #6C7140;
+
+    /*used to scroll (source: https://medium.com/@marknnjorogeh/horizontal-scroll-within-a-div-css-html-dcb83dbfbca5)*/
+    white-space: nowrap;    
+    overflow-x: scroll;
+    overflow-y: hidden;
+    -webkit-overflow-scrolling: touch; 
+
+}
+.scrollbar-b {
+    width: 100%;
+    background-color: #B5B0D8;
+
+    /*used to scroll*/
+    white-space: nowrap;    
+    overflow-x: scroll;
+    overflow-y: hidden;
+    /**keep scrolling when
+      *finger or cursor scrolling*/
+    -webkit-overflow-scrolling: touch; 
+}
+
+.bar-1 {
+  height: 5px;
+}
+.bar-2 {
+  height: 100px;
+}
+.bar-3 {
+  height: 100px;
+}
+.bar-4 {
+  height: 100px;
+}
+.bar-5 {
+  height: 100px;
+}
+
+/*backgrounds*/
+.green-bg{
+  background-color: #6C7140;
+  display: inline-flex;
+}
+.purp-bg{
+  background-color: #B5B0D8;
+  display: inline-flex;
+}
+
+
+/* images */
+.image{
+  display: inline-flex;
+}

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15 15">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #6c7140;
+      }
+
+      .cls-2 {
+        fill: #b5b0d8;
+      }
+    </style>
+  </defs>
+  <rect class="cls-2" x=".02" y=".04" width="15" height="15" transform="translate(15.05 15.07) rotate(-180)"/>
+  <rect class="cls-1" x="-.02" y="3.07" width="1" height=".99" transform="translate(.95 7.13) rotate(-180)"/>
+  <rect class="cls-1" x=".97" y="5.08" width="1" height=".99" transform="translate(2.93 11.14) rotate(-180)"/>
+  <rect class="cls-1" x="2.99" y="4.02" width="1" height=".99" transform="translate(6.97 9.03) rotate(-180)"/>
+  <rect class="cls-1" x=".97" y="6.07" width="1" height=".99" transform="translate(2.93 13.13) rotate(-180)"/>
+  <rect class="cls-1" x="2.99" y="6.99" width="1" height="1" transform="translate(6.97 14.98) rotate(-180)"/>
+  <rect class="cls-1" x=".97" y="8" width="1" height="1.05" transform="translate(2.93 17.06) rotate(-180)"/>
+  <rect class="cls-1" x=".97" y="9.01" width="1" height=".99" transform="translate(2.93 19.02) rotate(-180)"/>
+  <rect class="cls-1" x="4.99" y="13.05" width="1.19" height=".94"/>
+  <rect class="cls-1" x="4.99" y="13.92" width="1" height="1.11"/>
+  <rect class="cls-1" x="2.99" y="11.06" width="1" height=".99"/>
+  <rect class="cls-1" x="2.99" y="12.05" width="1" height=".99"/>
+  <rect class="cls-1" x="2.99" y="10.05" width="1" height="1.05"/>
+  <rect class="cls-1" x=".98" y="13" width="1" height="1.06"/>
+  <rect class="cls-1" x=".98" y="12.05" width="1" height=".99"/>
+  <rect class="cls-1" x="1.97" y="14.04" width="1" height=".99"/>
+  <rect class="cls-1" x="3.98" y="2.05" width="1" height=".99"/>
+  <rect class="cls-1" x="3.98" y="3.04" width="1" height=".99"/>
+  <rect class="cls-1" x=".99" y=".08" width="1" height=".99"/>
+  <rect class="cls-1" x="-.02" y="1.08" width="1" height=".99"/>
+  <rect class="cls-1" x="2" y="2" width="1" height=".99"/>
+  <rect class="cls-1" x="2.97" y=".07" width="1" height=".99"/>
+  <rect class="cls-1" x="0" y="10" width="1" height=".99" transform="translate(.99 20.98) rotate(-180)"/>
+  <rect class="cls-1" x="10.02" y="12.99" width="1.95" height="2.02"/>
+  <rect class="cls-1" x="10.02" y="13.98" width="1" height=".99"/>
+  <rect class="cls-1" x="7.04" y="11.01" width="1" height=".99"/>
+  <rect class="cls-1" x="6" y="13" width="1" height=".99"/>
+  <rect class="cls-1" x="7" y="13.98" width="1" height="1.05"/>
+  <rect class="cls-1" x="9.01" y="1.99" width="1" height=".99"/>
+  <rect class="cls-1" x="9.01" y="2.98" width="1" height=".99"/>
+  <rect class="cls-1" x="6.02" y=".02" width="1" height=".99"/>
+  <rect class="cls-1" x="5.01" y="1.02" width="1" height=".99"/>
+  <rect class="cls-1" x="7.02" y="2.98" width="1" height=".99"/>
+  <rect class="cls-1" x="8" y="0" width="1" height=".99"/>
+  <rect class="cls-1" x="10.97" y=".02" width="1" height=".99" transform="translate(22.94 1.04) rotate(-180)"/>
+  <rect class="cls-1" x="12.98" y="5.97" width="1" height=".99" transform="translate(26.96 12.94) rotate(-180)"/>
+  <rect class="cls-1" x="12.98" y="4.98" width="1" height=".99" transform="translate(26.96 10.96) rotate(-180)"/>
+  <rect class="cls-1" x="10.96" y="7.04" width="1" height=".99" transform="translate(22.92 15.06) rotate(-180)"/>
+  <rect class="cls-1" x="12.98" y="7.96" width="1" height="1" transform="translate(26.96 16.91) rotate(-180)"/>
+  <rect class="cls-1" x="10.96" y="9.98" width="1" height=".99" transform="translate(22.92 20.95) rotate(-180)"/>
+  <rect class="cls-1" x="12.98" y="11.92" width="1" height="1.1"/>
+  <rect class="cls-1" x="12.98" y="13.02" width="1" height=".99"/>
+  <rect class="cls-1" x="12.98" y="11.01" width="1" height=".99"/>
+  <rect class="cls-1" x="10.97" y="14.02" width="1" height=".99"/>
+  <rect class="cls-1" x="10.97" y="13.02" width="1" height=".99"/>
+  <rect class="cls-1" x="10.97" y="1.02" width="1" height=".99"/>
+  <rect class="cls-1" x="11.99" y="2.97" width="1" height=".99"/>
+  <rect class="cls-1" x="12.96" y="1.03" width="1" height=".99"/>
+  <rect class="cls-1" x="9.99" y="10.96" width="1" height=".99" transform="translate(20.97 22.91) rotate(-180)"/>
+  <rect class="cls-1" x="13.98" y="5.97" width="1" height="1" transform="translate(28.96 12.93) rotate(-180)"/>
+  <g>
+    <rect class="cls-1" x="8.03" y="8" width="1.02" height="1" transform="translate(17.08 16.99) rotate(-180)"/>
+    <rect class="cls-1" x="9.04" y="8.95" width=".99" height="1.01" transform="translate(19.06 18.9) rotate(-180)"/>
+    <rect class="cls-1" x="5.02" y="6.98" width="1" height="1" transform="translate(11.03 14.96) rotate(-180)"/>
+    <rect class="cls-1" x="6" y="5.99" width="1" height=".99" transform="translate(13 12.97) rotate(-180)"/>
+    <rect class="cls-1" x="7" y="6.98" width="1" height="1" transform="translate(15.01 14.97) rotate(-180)"/>
+    <rect class="cls-1" x="6" y="8" width="1" height=".99" transform="translate(13 16.99) rotate(-180)"/>
+    <rect class="cls-1" x="7" y="8.98" width="1" height="1" transform="translate(15.01 18.97) rotate(-180)"/>
+    <rect class="cls-1" x="7.03" y="5" width="1.02" height="1" transform="translate(15.07 11) rotate(-180)"/>
+    <rect class="cls-1" x="8.05" y="5.98" width=".99" height="1.01" transform="translate(17.08 12.97) rotate(-180)"/>
+    <rect class="cls-1" x="9.05" y="6.99" width="1" height="1" transform="translate(19.09 14.97) rotate(-180)"/>
+    <rect class="cls-1" x="5.01" y="5" width="1" height="1" transform="translate(11.01 11) rotate(-180)"/>
+    <rect class="cls-1" x="9.05" y="5" width="1" height="1" transform="translate(19.09 11) rotate(-180)"/>
+    <rect class="cls-1" x="5" y="9" width=".99" height="1.01" transform="translate(10.99 19) rotate(-180)"/>
+  </g>
+</svg>
